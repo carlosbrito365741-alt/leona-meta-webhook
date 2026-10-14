@@ -1,0 +1,14 @@
+{
+  "name": "leona-meta-webhook",
+  "version": "1.0.0",
+  "description": "Integração Leona e Hotmart para Meta Conversions API (CAPI)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
